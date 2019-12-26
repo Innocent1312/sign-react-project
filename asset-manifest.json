@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sign-react-project/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/sign-react-project/static/js/main.16e44edc.chunk.js",
+    "main.js.map": "/sign-react-project/static/js/main.16e44edc.chunk.js.map",
+    "runtime-main.js": "/sign-react-project/static/js/runtime-main.cbbce2f9.js",
+    "runtime-main.js.map": "/sign-react-project/static/js/runtime-main.cbbce2f9.js.map",
+    "static/js/2.5b380d6c.chunk.js": "/sign-react-project/static/js/2.5b380d6c.chunk.js",
+    "static/js/2.5b380d6c.chunk.js.map": "/sign-react-project/static/js/2.5b380d6c.chunk.js.map",
+    "index.html": "/sign-react-project/index.html",
+    "precache-manifest.46235242d7ce61f88e9d32787e2ad8df.js": "/sign-react-project/precache-manifest.46235242d7ce61f88e9d32787e2ad8df.js",
+    "service-worker.js": "/sign-react-project/service-worker.js",
+    "static/css/main.6a934dfc.chunk.css.map": "/sign-react-project/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.5b380d6c.chunk.js.LICENSE": "/sign-react-project/static/js/2.5b380d6c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbbce2f9.js",
+    "static/js/2.5b380d6c.chunk.js",
+    "static/css/main.6a934dfc.chunk.css",
+    "static/js/main.16e44edc.chunk.js"
+  ]
+}
